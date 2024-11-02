@@ -1,5 +1,5 @@
 package com.kingjinho.ecommerce.domain;
 
-enum OrderStatus {
+public enum OrderStatus {
     ORDER, CANCEL
 }
